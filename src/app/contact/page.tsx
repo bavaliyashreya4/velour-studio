@@ -174,7 +174,7 @@ export default function ContactPage() {
                 disabled={isSubmitting}
                 className="w-full border border-[var(--background)] py-4 uppercase tracking-[0.2em] text-sm hover:bg-[var(--background)] hover:text-[var(--foreground)] transition-colors cursor-none disabled:opacity-50"
               >
-                {isSubmitting ? "Sending..." : "Submit Inquiry"}
+                {isSubmitting ? "Sending Msg..." : "Submit Inquiry"}
               </button>
             </form>
           )}
