@@ -43,11 +43,7 @@ export default function Footer() {
           </h4>
           <NewsletterForm />
 
-          <div className="flex items-center space-x-6">
-            <a href="https://instagram.com/velour.studio" target="_blank" rel="noopener noreferrer" className="hover:text-[var(--color-gold)] transition-colors flex items-center space-x-2">
-              <span className="tracking-widest uppercase text-xs">@velour.studio</span>
-            </a>
-          </div>
+
         </div>
       </div>
 
